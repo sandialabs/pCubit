@@ -1,3 +1,5 @@
 numpy
 scipy
-sphinx_copybutton
+sphinx
+sphinx-copybutton
+sphinx-rtd-theme
