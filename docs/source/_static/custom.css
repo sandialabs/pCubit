@@ -1,0 +1,68 @@
+.rst-content div[class^="highlight"], .rst-content pre.literal-block
+{
+    overflow: visible;
+}
+a:visited
+{
+    color: #4892ce;
+}
+.wy-menu a:visited
+{
+    color: #d9d9d9;
+}
+.wy-nav-content
+{
+    background-color: #fcfcfc;
+    max-width: 1200px !important;
+    padding-left: 5em
+}
+.wy-nav-content-wrap
+{
+    background-color: #efefef;
+}  
+.wy-side-nav-search
+{
+    background-color: #e6e8e9;
+    a: visited
+    {
+        color: #4892ce;
+    }
+}
+.wy-side-nav-search > a,
+.wy-side-nav-search > div.version,
+.wy-side-nav-search .wy-dropdown > a
+{
+    color: #4892ce;
+}
+.cmdsumenum
+{
+    color:darkblue;
+    font-style: italic;
+}
+.cmdsumstring
+{
+    color:maroon;
+    font-style: italic;
+}
+.cmdsumnumber
+{
+    color:darkgreen;
+    font-style: italic;
+}
+.eqno
+{
+    float: right;
+}
+.alg-caption
+{
+    margin: auto;
+    text-align: center;
+}
+.rst-content .citation-reference, .rst-content .footnote-reference
+{
+    font-size: 100%;
+    line-height: 0;
+    position: relative;
+    top: 0em;
+    vertical-align: baseline;
+}

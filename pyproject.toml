@@ -1,15 +1,14 @@
 [project]
-name = "pCubit"
-version = "0.1.6"
-description = "Placement of particles/pores using Cubit."
+name = 'pCubit'
+version = '0.1.6'
+description = 'Placement of particles/pores using Cubit.'
 authors = [
-  {email = "mrbuche@sandia.gov"},
-  {name = "Michael R. Buche"}
+  {email = 'mrbuche@sandia.gov'},
+  {name = 'Michael R. Buche'}
 ]
 dependencies = [
-    "matplotlib",
-    "numpy",
-    "scipy",
+    'numpy',
+    'scipy',
 ]
 classifiers = [
     'License :: OSI Approved :: BSD License',
@@ -20,6 +19,6 @@ classifiers = [
 ]
 
 [project.urls]
-Documentation = "https://pcubit.readthedocs.io"
-Homepage = "https://sandialabs.github.io/pCubit"
-Repository = "https://github.com/sandialabs/pCubit"
+Documentation = 'https://pcubit.readthedocs.io'
+Homepage = 'https://sandialabs.github.io/pCubit'
+Repository = 'https://github.com/sandialabs/pCubit'
