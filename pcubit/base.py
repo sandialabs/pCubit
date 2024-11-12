@@ -294,8 +294,8 @@ class EllipsoidsBase:
         """Spawn and automatically adopt ellipsoids.
 
         Args:
-            data (numpy.ndarray): The data for a set of ellipsoids.
-            **kwargs: Arbitrary keyword arguments.
+            - data (numpy.ndarray): The data for a set of ellipsoids.
+            - kwargs (foo): Arbitrary keyword arguments.
                 Passed to the constructor for the child class if no data.
 
         """

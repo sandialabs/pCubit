@@ -184,7 +184,7 @@ class Ellipsoids(EllipsoidsBase):
         and each ellipsoid is added to that element block during placement.
 
         Args:
-            **kwargs: Arbitrary keyword arguments.
+            kwargs: Arbitrary keyword arguments.
                 Passed to :meth:`~.Ellipsoid.place`.
 
         """

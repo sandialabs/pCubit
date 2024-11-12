@@ -20,7 +20,12 @@ copyright = '2024, National Technology & Engineering Solutions of Sandia, LLC.'
 author = 'Michael R. Buche'
 release = get_version()
 
-extensions = []
+add_module_names = False
+autodoc_mock_imports = ['cubit']
+extensions = [
+    'sphinx_copybutton',
+    'sphinx.ext.autodoc',
+]
 exclude_patterns = []
 html_show_sphinx = False
 html_show_sourcelink = False

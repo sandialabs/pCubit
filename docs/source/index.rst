@@ -6,6 +6,16 @@ pCubit
 
 Placement of particles/pores using Cubit.
 
+.. toctree::
+   :hidden:
+   :caption: Modules
+   :glob:
+   
+   base
+   core
+   stats
+
+
 .. |pypi| image:: https://img.shields.io/pypi/v/pcubit?logo=pypi&logoColor=FBE072&label=PyPI&color=4B8BBE
    :target: https://pypi.org/project/pcubit
    :alt: pypi
