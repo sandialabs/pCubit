@@ -1,3 +1,5 @@
+matplotlib
+nbsphinx
 numpy
 scipy
 sphinx
