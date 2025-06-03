@@ -1,6 +1,6 @@
 [project]
 name = 'pCubit'
-version = '0.1.7'
+version = '0.2.0'
 description = 'Placement of particles/pores using Cubit.'
 authors = [
   {email = 'mrbuche@sandia.gov'},
