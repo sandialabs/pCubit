@@ -15,6 +15,12 @@ Placement of particles/pores using Cubit.
    core
    stats
 
+.. toctree::
+   :hidden:
+   :caption: Examples
+
+   statistical_generator_pores
+
 
 .. |pypi| image:: https://img.shields.io/pypi/v/pcubit?logo=pypi&logoColor=FBE072&label=PyPI&color=4B8BBE
    :target: https://pypi.org/project/pcubit
